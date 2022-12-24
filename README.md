@@ -1,5 +1,1 @@
-# Final Capstone
-​
-This directory contains all of the starter projects for the final capstone.
-​
-Each project contains instructions that provides information about the starting code and explains how to get started with the final capstone project.
+Created a full stack program called Silent Auction. Its a Silent auction where you can create auctionable items, bid on any auction, login to beceome a authorized user, logout of current user, view each individual auction and able to edit it, and are able to delete auctions.
