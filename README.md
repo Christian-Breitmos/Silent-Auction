@@ -1,1 +1,1 @@
-Created a full stack program called Silent Auction. Its a Silent auction where you can create auctionable items, bid on any auction, login to beceome a authorized user, logout of current user, view each individual auction and able to edit it, and are able to delete auctions.
+Created a full stack program called Silent Auction. It's a Silent auction where you can create auctionable items, bid on any auction, log in to become an authorized user, log out of a current user, view each auction individually and able to edit it, and are able to delete auctions.
